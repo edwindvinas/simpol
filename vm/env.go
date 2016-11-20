@@ -6,7 +6,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/mattn/simpol/parser"
+	"github.com/edwindvinas/simpol/parser"
 )
 
 // Env provides interface to run VM. This mean function scope and blocked-scope.

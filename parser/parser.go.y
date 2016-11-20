@@ -2,7 +2,7 @@
 package parser
 
 import (
-	"github.com/mattn/simpol/ast"
+	"github.com/edwindvinas/simpol/ast"
 )
 
 %}

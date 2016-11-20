@@ -112,7 +112,7 @@ func main() {
 package %s
 
 import (
-	"github.com/mattn/simpol/vm"
+	"github.com/edwindvinas/simpol/vm"
 	pkg "%s"
 )
 

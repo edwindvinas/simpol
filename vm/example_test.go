@@ -5,8 +5,8 @@ import (
 	"log"
 	"time"
 
-	"github.com/mattn/simpol/parser"
-	"github.com/mattn/simpol/vm"
+	"github.com/edwindvinas/simpol/parser"
+	"github.com/edwindvinas/simpol/vm"
 )
 
 func ExampleInterrupt() {

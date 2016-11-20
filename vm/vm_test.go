@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/mattn/simpol/parser"
+	"github.com/edwindvinas/simpol/parser"
 )
 
 func testInterrupt() {

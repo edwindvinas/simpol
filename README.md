@@ -1,6 +1,6 @@
 # Simpol
 
-Simpol is a Golang interpreter for the sample language called Simpol. It was patterned from github.com/mattn/simpol.
+Simpol is a Golang interpreter for the sample language called Simpol. It was patterned from github.com/edwindvinas/simpol.
 
 ## Installation
 Requires Go.

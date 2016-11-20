@@ -9,8 +9,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/mattn/simpol/ast"
-	"github.com/mattn/simpol/parser"
+	"github.com/edwindvinas/simpol/ast"
+	"github.com/edwindvinas/simpol/parser"
 )
 
 var (

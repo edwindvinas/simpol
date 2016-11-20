@@ -13,11 +13,11 @@ import (
 	"strings"
 
 	"github.com/daviddengcn/go-colortext"
-	"github.com/mattn/simpol/parser"
-	"github.com/mattn/simpol/vm"
-	"github.com/mattn/go-isatty"
+	"github.com/edwindvinas/simpol/parser"
+	"github.com/edwindvinas/simpol/vm"
+	"github.com/edwindvinas/go-isatty"
 
-	simpol_core "github.com/mattn/simpol/builtins"
+	simpol_core "github.com/edwindvinas/simpol/builtins"
 )
 
 const version = "0.0.1"

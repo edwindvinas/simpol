@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/mattn/simpol/vm"
+	"github.com/edwindvinas/simpol/vm"
 )
 
 func main() {
