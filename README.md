@@ -1,6 +1,6 @@
 # Simpol
 
-Simpol is a Golang interpreter for the sample language called Simpol. It was patterned from github.com/mattn/anko.
+Simpol is a Golang interpreter for the sample language called Simpol. It was patterned from github.com/mattn/simpol.
 
 ## Installation
 Requires Go.
@@ -41,10 +41,11 @@ PRT $Goodbye!$
 
 See `_examples/scripts` for more examples.
 
-Running scripts using anko command-line tool:
+Running scripts using simpol command-line tool:
 
 ```
 $ simpol simpol.sim
 ```
 
+To try this online, see https://github.com/edwindvinas/simpol-online
 

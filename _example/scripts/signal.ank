@@ -1,4 +1,4 @@
-#!anko
+#!simpol
 
 var os, signal, time = import("os"), import("os/signal"), import("time")
 

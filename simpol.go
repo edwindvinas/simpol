@@ -13,11 +13,11 @@ import (
 	"strings"
 
 	"github.com/daviddengcn/go-colortext"
-	"github.com/mattn/anko/parser"
-	"github.com/mattn/anko/vm"
+	"github.com/mattn/simpol/parser"
+	"github.com/mattn/simpol/vm"
 	"github.com/mattn/go-isatty"
 
-	anko_core "github.com/mattn/anko/builtins"
+	simpol_core "github.com/mattn/simpol/builtins"
 )
 
 const version = "0.0.1"
@@ -83,7 +83,7 @@ func main() {
 		os.Args = fs.Args()
 	}
 
-	anko_core.LoadAllBuiltins(env)
+	simpol_core.LoadAllBuiltins(env)
 
 	for {
 		if interactive {

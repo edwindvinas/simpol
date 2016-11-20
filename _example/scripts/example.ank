@@ -1,4 +1,4 @@
-#!anko
+#!simpol
 
 # declare function
 func foo(x){

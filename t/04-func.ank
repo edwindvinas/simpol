@@ -20,4 +20,4 @@ var x = func(x) {
 
 is("Yay! hello world", x, "...")
 
-# vim: set ft=anko:
+# vim: set ft=simpol:

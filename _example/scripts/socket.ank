@@ -1,4 +1,4 @@
-#!anko
+#!simpol
 
 var os, net, url, ioutil = import("os"), import("net"), import("net/url"), import("io/ioutil");
 

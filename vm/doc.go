@@ -1,2 +1,2 @@
-// Package vm implements virtual-machine for anko.
+// Package vm implements virtual-machine for simpol.
 package vm

@@ -8,4 +8,4 @@ for i = 0; i < len(a); i++ {
 }
 is(x, len(a), "toByteSlice(str)")
 
-# vim: set ft=anko:
+# vim: set ft=simpol:

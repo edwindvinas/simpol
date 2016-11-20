@@ -1,4 +1,4 @@
-#!anko
+#!simpol
 
 var url = import("net/url")
 

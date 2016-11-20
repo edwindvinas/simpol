@@ -36,4 +36,4 @@ default:
 }
 is(3, r, "switch/default")
 
-# vim: set ft=anko:
+# vim: set ft=simpol:

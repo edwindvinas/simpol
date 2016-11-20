@@ -1,11 +1,11 @@
-// Package parser implements parser for anko.
+// Package parser implements parser for simpol.
 package parser
 
 import (
 	"errors"
 	"fmt"
 
-	"github.com/mattn/anko/ast"
+	"github.com/mattn/simpol/ast"
 )
 
 const (

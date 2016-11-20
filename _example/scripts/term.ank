@@ -1,4 +1,4 @@
-#!anko
+#!simpol
 
 var colortext = import("github.com/daviddengcn/go-colortext")
 

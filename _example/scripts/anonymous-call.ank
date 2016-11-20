@@ -1,4 +1,4 @@
-#!anko
+#!simpol
 
 func(x) {
   return func(y) {

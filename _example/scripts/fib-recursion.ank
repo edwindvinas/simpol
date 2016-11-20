@@ -1,4 +1,4 @@
-#!anko
+#!simpol
 
 func fib(n) {
   if n == 1 {

@@ -1,4 +1,4 @@
-#!anko
+#!simpol
 
 ok(1 > 0, "1 > 0")
 ok(1 == 1.0, "1 == 1.0")
@@ -64,5 +64,5 @@ is(12, a, "3 << 2")
 a = 11 >> 2
 is(2, a, "11 >> 2")
 
-# vim: set ft=anko:
+# vim: set ft=simpol:
 

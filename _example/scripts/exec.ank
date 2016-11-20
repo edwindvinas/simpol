@@ -1,4 +1,4 @@
-#!anko
+#!simpol
 
 var os, exec = import("os"), import("os/exec")
 

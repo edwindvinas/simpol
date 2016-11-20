@@ -4,4 +4,4 @@ is("true", toString(true), "toString(true)")
 is("false", toString(false), "toString(false)")
 is("foo", toString("foo"), "toString(\"foo\")")
 
-# vim: set ft=anko:
+# vim: set ft=simpol:

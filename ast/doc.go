@@ -1,2 +1,2 @@
-// Package ast implements abstruct-syntax-tree for anko.
+// Package ast implements abstruct-syntax-tree for simpol.
 package ast

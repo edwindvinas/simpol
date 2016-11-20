@@ -108,11 +108,11 @@ func main() {
 		}
 		sort.Strings(keys)
 		_, pn := filepath.Split(pkg)
-		fmt.Printf(`// Package %s implements %s interface for anko script.
+		fmt.Printf(`// Package %s implements %s interface for simpol script.
 package %s
 
 import (
-	"github.com/mattn/anko/vm"
+	"github.com/mattn/simpol/vm"
 	pkg "%s"
 )
 

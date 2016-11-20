@@ -71,4 +71,4 @@ for item in resp.items {
 
 is(2, x, "dereference slice element")
 
-# vim: set ft=anko:
+# vim: set ft=simpol:
