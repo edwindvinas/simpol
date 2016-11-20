@@ -6,7 +6,7 @@ package net
 import (
 	pkg "net"
 
-	"github.com/mattn/anko/vm"
+	"github.com/edwindvinas/simpol/vm"
 )
 
 func Import(env *vm.Env) *vm.Env {

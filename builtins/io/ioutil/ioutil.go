@@ -4,7 +4,7 @@ package ioutil
 import (
 	u "io/ioutil"
 
-	"github.com/mattn/anko/vm"
+	"github.com/edwindvinas/simpol/vm"
 )
 
 func Import(env *vm.Env) *vm.Env {

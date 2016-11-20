@@ -4,7 +4,7 @@ package sort
 import (
 	s "sort"
 
-	"github.com/mattn/anko/vm"
+	"github.com/edwindvinas/simpol/vm"
 )
 
 type is []interface{}
